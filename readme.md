@@ -2,6 +2,8 @@
 
 **SecoPass** is a very simple WordPress plugin, it can help you set up a second password easily.
 
+![screenshot](http://i.imgur.com/bhHP7fr.png)
+
 #How to use
 
 1. Download and extract the [zip archive](https://github.com/MrOPR/SecoPass/archive/master.zip), rename the folder to secopass.
